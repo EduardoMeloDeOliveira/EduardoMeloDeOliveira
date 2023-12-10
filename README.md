@@ -1,5 +1,5 @@
 ## Hello World!
-#### Essa minha maneira de enxergar e trabalhar com tecnologia 🌍👁️🕊️
+#### Essa é minha maneira de enxergar e trabalhar com tecnologia 🌍👁️🕊️
 ###### if(name == "Eduardo Melo de Oliveira"{
 ###### dev()
 ###### console.log("Estudante sptech")
