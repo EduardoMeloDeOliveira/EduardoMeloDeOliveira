@@ -1,5 +1,5 @@
 
-<p align="center">
+<p align="center" display = "flex" flex-direction ="column" justify-content = "center" >
 My skills and favorite stack's
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=java,spring,git,bash,js,postgres,prisma,react,ts,nodejs,docker,linux" />
