@@ -1,10 +1,3 @@
-## Hello World!
-#### Essa é minha maneira de enxergar e trabalhar com tecnologia 🌍👁️🕊️
-###### if(name == "Eduardo Melo de Oliveira"{
-###### dev()
-###### console.log("Estudante sptech")
-###### return }
-
 ![Eduardo Melo de Oliveira stats](https://github-readme-stats.vercel.app/api?username=EduardoMeloDeOliveira&show_icons=true&theme=tokyonight)
 
 
@@ -13,7 +6,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
+    <img src="https://skillicons.dev/icons?i=java,spring,git,bash,js,postgres,,docker,linux" />
   </a>
 </p>
   
