@@ -1,11 +1,8 @@
-<div>
-<p align="center" display = "flex" flex-direction ="column" justify-content = "center" >
-My skills and favorite stack's
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,git,bash,js,postgres,prisma,react,ts,nodejs,docker,linux" />
-  </a>
-</p>
-  
-</div> 
-
-
+<div style="display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center;">
+  <p style="margin: 0;">
+    My skills and favorite stack's
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=java,spring,git,bash,js,postgres,prisma,react,ts,nodejs,docker,linux" alt="Skills Icons" style="max-width: 100%; height: auto;" />
+    </a>
+  </p>
+</div>
