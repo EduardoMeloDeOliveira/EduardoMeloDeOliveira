@@ -1,4 +1,7 @@
-## My skills and favorite stack's
+## 
+<div align="center">
+<h1>My skills and favorite stack's</h1>
+</div>
 
 <div align="center">
   <a href="https://skillicons.dev">
