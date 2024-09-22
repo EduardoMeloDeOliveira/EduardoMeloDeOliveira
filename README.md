@@ -5,9 +5,9 @@
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java" width="50px" />
-    <img src="https://skillicons.dev/icons?i=spring" width="50px" />
-    <img src="https://skillicons.dev/icons?i=mysql" width="50px" />
+    <img src="https://skillicons.dev/icons?i=java" width="70px" />
+    <img src="https://skillicons.dev/icons?i=spring" width="70px" />
+    <img src="https://skillicons.dev/icons?i=mysql" width="70px" />
     <br>
     <img src="https://skillicons.dev/icons?i=js" width="50px" />
     <img src="https://skillicons.dev/icons?i=react" width="50px" />
