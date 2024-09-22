@@ -21,8 +21,8 @@
     <img src="https://skillicons.dev/icons?i=symfony" width="60px" />
     <img src="https://skillicons.dev/icons?i=prisma" width="60px" />
     <br>
-    <img src="https://skillicons.dev/icons?i=git" width="55px" />
-    <img src="https://skillicons.dev/icons?i=docker" width="55px" />
-    <img src="https://skillicons.dev/icons?i=linux" width="55px" />
+    <img src="https://skillicons.dev/icons?i=git" width="50px" />
+    <img src="https://skillicons.dev/icons?i=docker" width="50px" />
+    <img src="https://skillicons.dev/icons?i=linux" width="50px" />
   </a>
 </div>
