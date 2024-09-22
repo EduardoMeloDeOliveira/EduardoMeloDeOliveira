@@ -21,6 +21,7 @@
   <br>
   <img src="https://skillicons.dev/icons?i=php" width="50px" />
   <img src="https://skillicons.dev/icons?i=mysql" width="50px" />
+  <img src="https://skillicons.dev/icons?i=symfony" width="50px" />
   <br>
   <img src="https://skillicons.dev/icons?i=mongodb" width="50px" />
   <img src="https://skillicons.dev/icons?i=nodejs" width="50px" />
