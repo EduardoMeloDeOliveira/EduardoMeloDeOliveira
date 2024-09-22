@@ -2,7 +2,7 @@
   <p style="margin: 0;">
     My skills and favorite stack's <br><br>
     <a href="https://skillicons.dev">
-      <div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
+      <div style="display: grid; grid-template-columns: repeat(2, auto); gap: 10px;">
         <img src="https://skillicons.dev/icons?i=java" alt="Java" style="width: 60px; height: 60px;" />
         <img src="https://skillicons.dev/icons?i=spring" alt="Spring" style="width: 60px; height: 60px;" />
         <img src="https://skillicons.dev/icons?i=git" alt="Git" style="width: 60px; height: 60px;" />
